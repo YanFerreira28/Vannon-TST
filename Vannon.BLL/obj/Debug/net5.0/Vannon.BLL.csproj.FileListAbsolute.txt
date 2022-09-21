@@ -1,0 +1,17 @@
+C:\Users\saoinb08devops\source\repos\Vannon\Vannon.BLL\bin\Debug\net5.0\Vannon.BLL.deps.json
+C:\Users\saoinb08devops\source\repos\Vannon\Vannon.BLL\bin\Debug\net5.0\Vannon.BLL.dll
+C:\Users\saoinb08devops\source\repos\Vannon\Vannon.BLL\bin\Debug\net5.0\ref\Vannon.BLL.dll
+C:\Users\saoinb08devops\source\repos\Vannon\Vannon.BLL\bin\Debug\net5.0\Vannon.BLL.pdb
+C:\Users\saoinb08devops\source\repos\Vannon\Vannon.BLL\obj\Debug\net5.0\Vannon.BLL.csproj.AssemblyReference.cache
+C:\Users\saoinb08devops\source\repos\Vannon\Vannon.BLL\obj\Debug\net5.0\Vannon.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saoinb08devops\source\repos\Vannon\Vannon.BLL\obj\Debug\net5.0\Vannon.BLL.AssemblyInfoInputs.cache
+C:\Users\saoinb08devops\source\repos\Vannon\Vannon.BLL\obj\Debug\net5.0\Vannon.BLL.AssemblyInfo.cs
+C:\Users\saoinb08devops\source\repos\Vannon\Vannon.BLL\obj\Debug\net5.0\Vannon.BLL.csproj.CoreCompileInputs.cache
+C:\Users\saoinb08devops\source\repos\Vannon\Vannon.BLL\obj\Debug\net5.0\Vannon.BLL.dll
+C:\Users\saoinb08devops\source\repos\Vannon\Vannon.BLL\obj\Debug\net5.0\ref\Vannon.BLL.dll
+C:\Users\saoinb08devops\source\repos\Vannon\Vannon.BLL\obj\Debug\net5.0\Vannon.BLL.pdb
+C:\Users\saoinb08devops\source\repos\Vannon\Vannon.BLL\bin\Debug\net5.0\Vannon.DAL.dll
+C:\Users\saoinb08devops\source\repos\Vannon\Vannon.BLL\bin\Debug\net5.0\Vannon.Model.dll
+C:\Users\saoinb08devops\source\repos\Vannon\Vannon.BLL\bin\Debug\net5.0\Vannon.DAL.pdb
+C:\Users\saoinb08devops\source\repos\Vannon\Vannon.BLL\bin\Debug\net5.0\Vannon.Model.pdb
+C:\Users\saoinb08devops\source\repos\Vannon\Vannon.BLL\obj\Debug\net5.0\Vannon.BLL.csproj.CopyComplete

@@ -1,0 +1,11 @@
+C:\Users\saoinb08devops\source\repos\Vannon\Vannon.Model\bin\Debug\net5.0\Vannon.Model.deps.json
+C:\Users\saoinb08devops\source\repos\Vannon\Vannon.Model\bin\Debug\net5.0\Vannon.Model.dll
+C:\Users\saoinb08devops\source\repos\Vannon\Vannon.Model\bin\Debug\net5.0\ref\Vannon.Model.dll
+C:\Users\saoinb08devops\source\repos\Vannon\Vannon.Model\bin\Debug\net5.0\Vannon.Model.pdb
+C:\Users\saoinb08devops\source\repos\Vannon\Vannon.Model\obj\Debug\net5.0\Vannon.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saoinb08devops\source\repos\Vannon\Vannon.Model\obj\Debug\net5.0\Vannon.Model.AssemblyInfoInputs.cache
+C:\Users\saoinb08devops\source\repos\Vannon\Vannon.Model\obj\Debug\net5.0\Vannon.Model.AssemblyInfo.cs
+C:\Users\saoinb08devops\source\repos\Vannon\Vannon.Model\obj\Debug\net5.0\Vannon.Model.csproj.CoreCompileInputs.cache
+C:\Users\saoinb08devops\source\repos\Vannon\Vannon.Model\obj\Debug\net5.0\Vannon.Model.dll
+C:\Users\saoinb08devops\source\repos\Vannon\Vannon.Model\obj\Debug\net5.0\ref\Vannon.Model.dll
+C:\Users\saoinb08devops\source\repos\Vannon\Vannon.Model\obj\Debug\net5.0\Vannon.Model.pdb

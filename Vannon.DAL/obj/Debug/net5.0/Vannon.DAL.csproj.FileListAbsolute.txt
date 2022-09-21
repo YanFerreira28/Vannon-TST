@@ -1,0 +1,17 @@
+C:\Users\saoinb08devops\source\repos\Vannon\Vannon.DAL\bin\Debug\net5.0\Vannon.DAL.deps.json
+C:\Users\saoinb08devops\source\repos\Vannon\Vannon.DAL\bin\Debug\net5.0\Vannon.DAL.dll
+C:\Users\saoinb08devops\source\repos\Vannon\Vannon.DAL\bin\Debug\net5.0\ref\Vannon.DAL.dll
+C:\Users\saoinb08devops\source\repos\Vannon\Vannon.DAL\bin\Debug\net5.0\Vannon.DAL.pdb
+C:\Users\saoinb08devops\source\repos\Vannon\Vannon.DAL\bin\Debug\net5.0\Vannon.Model.dll
+C:\Users\saoinb08devops\source\repos\Vannon\Vannon.DAL\bin\Debug\net5.0\Vannon.Model.pdb
+C:\Users\saoinb08devops\source\repos\Vannon\Vannon.DAL\obj\Debug\net5.0\Vannon.DAL.csproj.AssemblyReference.cache
+C:\Users\saoinb08devops\source\repos\Vannon\Vannon.DAL\obj\Debug\net5.0\Vannon.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saoinb08devops\source\repos\Vannon\Vannon.DAL\obj\Debug\net5.0\Vannon.DAL.AssemblyInfoInputs.cache
+C:\Users\saoinb08devops\source\repos\Vannon\Vannon.DAL\obj\Debug\net5.0\Vannon.DAL.AssemblyInfo.cs
+C:\Users\saoinb08devops\source\repos\Vannon\Vannon.DAL\obj\Debug\net5.0\Vannon.DAL.csproj.CoreCompileInputs.cache
+C:\Users\saoinb08devops\source\repos\Vannon\Vannon.DAL\obj\Debug\net5.0\Vannon.DAL.dll
+C:\Users\saoinb08devops\source\repos\Vannon\Vannon.DAL\obj\Debug\net5.0\ref\Vannon.DAL.dll
+C:\Users\saoinb08devops\source\repos\Vannon\Vannon.DAL\obj\Debug\net5.0\Vannon.DAL.pdb
+C:\Users\saoinb08devops\source\repos\Vannon\Vannon.DAL\bin\Debug\net5.0\Vannon.DAL.runtimeconfig.json
+C:\Users\saoinb08devops\source\repos\Vannon\Vannon.DAL\bin\Debug\net5.0\Vannon.DAL.runtimeconfig.dev.json
+C:\Users\saoinb08devops\source\repos\Vannon\Vannon.DAL\obj\Debug\net5.0\Vannon.DAL.genruntimeconfig.cache
